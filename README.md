@@ -1,6 +1,6 @@
 # Cell Annotator
 
-An ImageJ plugin for labeling cells and exporting annotations, developed in the [Maruthamuthu Lab at Old Dominion University](http://www.odu.edu/~vmarutha).
+An ImageJ plugin for labeling cells and exporting annotations, developed in the [Cellular Mechanobiology Lab at Old Dominion University](http://www.odu.edu/~vmarutha).
 
 **Run:** Requires ImageJ 1.x and a JDK. Copy `Cell_Annotator.java` into ImageJ's `plugins` folder, choose **Plugins > Compile and Run...**, select the file, then select the Cell Annotator toolbar icon.
 
